@@ -1,0 +1,6 @@
+python == 3.10.7
+pandas ==  1.4.4
+pymango == 4.2.0
+snscrape == 0.7.0.202
+streamlit == 1.25.0
+PIL == 9.2.0
